@@ -12,9 +12,5 @@
 		<PackageReference Include="Swashbuckle.AspNetCore.Filters.Abstractions" Version="10.0.1" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <Folder Include="Data\" />
-	</ItemGroup>
-
 
 </Project>
